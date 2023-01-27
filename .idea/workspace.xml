@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9d73c26-284f-4560-8536-fb0352cecc33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video03/WebElementLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video04/WebElements01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video04/WebElements02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video04/WebElements3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video05JunitFramework/C01TestNotasyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video05JunitFramework/C02_TestNotasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video05JunitFramework/C03TestNotasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video05JunitFramework/C04Before_After.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video06/AssertionsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video06/JUnitAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video07/JUnitAssertionExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video1/ilkClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/video2_driverMethodlari/DriverMethodlari.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KaFfb6azIZk4GURAR9oetgRlVi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.JUnitAssertionExample2">
+    <configuration name="C03TestNotasyonu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="video05JunitFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="video05JunitFramework" />
+      <option name="MAIN_CLASS_NAME" value="video05JunitFramework.C03TestNotasyonu" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05BeforeClass_AfterClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="video05JunitFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="video05JunitFramework" />
+      <option name="MAIN_CLASS_NAME" value="video05JunitFramework.C05BeforeClass_AfterClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitAssertionExample1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="video07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="video07" />
+      <option name="MAIN_CLASS_NAME" value="video07.JUnitAssertionExample1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitAssertionExample2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="video07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="video07" />
+      <option name="MAIN_CLASS_NAME" value="video07.JUnitAssertionExample2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitAssertionExample2.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seleniumYoutube" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="video07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="video07" />
+      <option name="MAIN_CLASS_NAME" value="video07.JUnitAssertionExample2" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JUnitAssertionExample2" />
+        <item itemvalue="JUnit.JUnitAssertionExample2.test01" />
+        <item itemvalue="JUnit.JUnitAssertionExample1" />
+        <item itemvalue="JUnit.C05BeforeClass_AfterClass" />
+        <item itemvalue="JUnit.C03TestNotasyonu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9d73c26-284f-4560-8536-fb0352cecc33" name="Changes" comment="" />
+      <created>1674204892411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674204892411</updated>
+      <workItem from="1674204894145" duration="1173000" />
+      <workItem from="1674301390787" duration="572000" />
+      <workItem from="1674303426679" duration="1233000" />
+      <workItem from="1674317862221" duration="4797000" />
+      <workItem from="1674420960647" duration="2716000" />
+      <workItem from="1674475784162" duration="46000" />
+      <workItem from="1674660856400" duration="1906000" />
+      <workItem from="1674722002889" duration="12870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
